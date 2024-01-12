@@ -20,7 +20,7 @@ Repeat the above steps with the invalid file, and your output should match the f
 Follow these steps to submit your assignment:
 1. Use the following entry code to enroll in this course on Gradescope:**7DJX2B**.
 2. Commit and push your code to GitHub. Verify on github.com that your code was pushed.
-3. Go to **HW1-SMTP-Parser** on Gradescope and submit your assignment. If this is your first time using Gradescope
+3. Go to **HW1-SMTP-Parser** on Gradescope and submit your assignment **(Ensure that you preserve the name "parser.py" for your parser)***. If this is your first time using Gradescope
 to submit coding assignments, Gradecsope will ask you for permission to access GitHub. Grant this permission. You should now see a dropdown menu of your repositories. Select your repository, and submit your assignment.
 
 
